@@ -30,5 +30,5 @@ N/A
 
 - 随便选择一个页面，点击properties
 
-  ![image](assets/Pasted image 20230420173739.png)
-  ![image](assets/Pasted image 20230420173809.png)
+  ![image](assets/20230420173739.png)
+  ![image](assets/20230420173809.png)
