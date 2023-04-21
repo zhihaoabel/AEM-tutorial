@@ -29,5 +29,6 @@ N/A
 ![image](assets/20230420173548.png)
 
 - 随便选择一个页面，点击properties
-  <img src="assets/Pasted image 20230420173739.png" alt="image" style="zoom:150%;" />
+
+  ![image](assets/Pasted image 20230420173739.png)
   ![image](assets/Pasted image 20230420173809.png)
