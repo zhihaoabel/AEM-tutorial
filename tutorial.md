@@ -22,9 +22,12 @@
 ## Touch-optimized UI
 
 N/A
+
 ### Tag a page
-![[20230420173533.png]]
-![[20230420173548.png]]
+
+![image](assets/20230420173533.png)
+![image](assets/20230420173548.png)
+
 - 随便选择一个页面，点击properties
-![[20230420173739.png]]
-![[20230420173809.png]]
+  <img src="assets/Pasted image 20230420173739.png" alt="image" style="zoom:150%;" />
+  ![image](assets/Pasted image 20230420173809.png)
