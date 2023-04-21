@@ -5,7 +5,7 @@
 - 包含网站结构；
 - 指向结构或页面组件的节点（Nodes）；
 - cloud版有权限限制；
-- ==jcr:content结点的sling:resourceType属性指向源代码的路径；==
+- **jcr:content结点的sling:resourceType属性指向源代码的路径；**
 
 #### 2.apps
 
